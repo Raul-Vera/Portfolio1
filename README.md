@@ -25,3 +25,9 @@ Al hacer este ejercicio asente los conocimientos basicos de la programacion orie
 
 #### ***Bonus*** ####
 El ejecicio sobre ordenadores me ayudo a entender bien como funcionaba la herencia , las superclases y la subclases. Ya que al explicarlo en clase no me había quedado del todo claro.
+
+## 4. Conclusiones Finales ##
+Creo que he aprendido bastante y cogido bien la idea de la programación orientada a objetos.
+Aunque he echado en falta alguna practica más .Porque por lo menos a mi las dudas que me
+quedan tras explicar la teoria se me suelen quitar al hacer las prácticas se me van resolviendo.
+![foto con la frase el final en ingles](https://media.istockphoto.com/id/1404030356/es/vector/la-pantalla-de-cine-final.jpg?s=1024x1024&w=is&k=20&c=3KpDMVZagxfQbKKKpfnq2Hfyr_PWBUF_ht0yoiTlbfA=)
